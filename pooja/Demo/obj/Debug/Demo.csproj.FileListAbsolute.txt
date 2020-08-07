@@ -1,7 +1,0 @@
-C:\Users\arunk\source\repos\pooja\Demo\bin\Debug\Demo.exe.config
-C:\Users\arunk\source\repos\pooja\Demo\bin\Debug\Demo.exe
-C:\Users\arunk\source\repos\pooja\Demo\bin\Debug\Demo.pdb
-C:\Users\arunk\source\repos\pooja\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
-C:\Users\arunk\source\repos\pooja\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
-C:\Users\arunk\source\repos\pooja\Demo\obj\Debug\Demo.exe
-C:\Users\arunk\source\repos\pooja\Demo\obj\Debug\Demo.pdb
